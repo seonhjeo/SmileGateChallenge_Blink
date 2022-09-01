@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 20684edbe3d8c2e45b236d4fc2db3104
+=======
+guid: 061953ac9bf1bf04d96b4652b04e8001
+>>>>>>> main
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Larke
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

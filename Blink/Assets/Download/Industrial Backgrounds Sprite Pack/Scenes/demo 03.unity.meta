@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4a7c881be34216b45a630a5ed999dd69
+labels:
+- pallets
+- motor
+- piece
+- dumpster
+- firehydrants
+- garbagecan
+- ladders
+- fences
+- environment
+- industrial
+timeCreated: 1433120862
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
